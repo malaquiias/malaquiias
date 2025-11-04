@@ -5,11 +5,11 @@ Sou apaixonado por tecnologia e resolução de problemas. Atualmente, curso Sist
 
 Possuo experiência com HTML, CSS, JavaScript, C#, C++ e Java, além de conhecimentos em SQL para manipulação de bancos de dados.
 Tenho familiaridade com hardware, manutenção de computadores e suporte técnico.
-Atualmente, trabalho como Operador de Loja na OXXO, desenvolvendo habilidades de comunicação, atendimento ao cliente e resolução de problemas.
 📚 Formação & Habilidades
+✔ Ciências de Dados na FATEC (Previsão de término - 2027)
+✔ Sistemas de Informação na ESAMC 2 Semestres - (Trancado)
 ✔ Técnico em Informática pela ETEC (2022 - 2023)
-✔ Sistemas de Informação na ESAMC (Previsão de conclusão: 2029)
-✔ Inglês Intermediário (3º ano na Wizard) + Inglês Técnico (ETEC)
+✔ Inglês Intermediário B1 (3º ano na Wizard) + Inglês Técnico (ETEC)
 ✔ Habilidades interpessoais: Trabalho em equipe, comunicação clara e aprendizado rápido
 
 🚀 O que eu procuro?
