@@ -8,7 +8,8 @@
 
 **[tsfm-bench-br](https://github.com/malaquiias/tsfm-bench-br)**: um modelo pré-treinado, sem nenhum treino nos dados, prevê a carga de energia do Brasil melhor que os métodos clássicos?
 Comparei o **Chronos-2** (Amazon) com Seasonal Naive e AutoETS na carga horária do **ONS** (4 subsistemas, 20 janelas de backtest). Resultado: o Chronos-2 **reduziu o erro (MASE) em mais da metade**, e as covariáveis de calendário só ajudaram no feriado.
-`Python` · `pandas` · `statsforecast` · `Chronos-2` · `Streamlit` · `pytest` · `GitHub Actions`
+
+▶ **[Teste o app ao vivo](https://tsfm-bench-br.streamlit.app)** · `Python` · `pandas` · `statsforecast` · `Chronos-2` · `Streamlit` · `pytest` · `GitHub Actions`
 
 ### 📁 Outros projetos
 
